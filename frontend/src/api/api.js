@@ -1,7 +1,7 @@
 import axios from "axios"
 
 const API = axios.create({
-  baseURL: "https://graphy-1-o9su.onrender.com"
+  baseURL: "https://graphy-4-lz75.onrender.com"
 })
 
 export default API
