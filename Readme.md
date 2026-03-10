@@ -28,3 +28,4 @@ Frontend:
 
 npm install
 npm run dev
+<img width="1821" height="826" alt="image" src="https://github.com/user-attachments/assets/e45be954-78c6-4127-b269-9879c0a386d9" />
